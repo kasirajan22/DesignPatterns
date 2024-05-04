@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethodDP", "FactoryM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryMethodDP", "AbstractFactoryMethodDP\AbstractFactoryMethodDP.csproj", "{9E124AEC-AC47-4F3E-B427-9D28D9D14879}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonMethosDP", "SingletonMethosDP\SingletonMethosDP.csproj", "{203F1D1E-ECF8-4570-8C49-14AA8B9ECC12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeMethodDP", "PrototypeMethodDP\PrototypeMethodDP.csproj", "{6BB6D082-C769-4F5C-BF7B-92A55333C29E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{9E124AEC-AC47-4F3E-B427-9D28D9D14879}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E124AEC-AC47-4F3E-B427-9D28D9D14879}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E124AEC-AC47-4F3E-B427-9D28D9D14879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{203F1D1E-ECF8-4570-8C49-14AA8B9ECC12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{203F1D1E-ECF8-4570-8C49-14AA8B9ECC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{203F1D1E-ECF8-4570-8C49-14AA8B9ECC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{203F1D1E-ECF8-4570-8C49-14AA8B9ECC12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BB6D082-C769-4F5C-BF7B-92A55333C29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB6D082-C769-4F5C-BF7B-92A55333C29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB6D082-C769-4F5C-BF7B-92A55333C29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB6D082-C769-4F5C-BF7B-92A55333C29E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
